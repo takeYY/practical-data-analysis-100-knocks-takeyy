@@ -1,5 +1,5 @@
-# practical_data_analysis_100_knocks
-『実践データ分析100本ノック』のマイアンサー
+# practical-data-analysis-100-knocks-takeyy
+『実践データ分析100本ノック』の私的解答
 
 `work_dir`には作業ディレクトリのpathを指定する
 
